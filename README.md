@@ -1,1 +1,1 @@
-Follow all popular shows now!
+Blue app.. Coming very soon!
