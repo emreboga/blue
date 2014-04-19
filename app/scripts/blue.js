@@ -23,17 +23,21 @@ define([], function() {
         },
         paths: {
             'backbone': 'lib/backbone',
-            'dust': 'lib/dust-core-2.0.3',
-            'dust-helpers': 'lib/dust-helpers-1.1.2',
+            'bootstrap': 'lib/bootstrap',
+            'dust': 'lib/dust-core',
+            'dust-helpers': 'lib/dust-helpers',
             'jquery': 'lib/jquery',
-            'underscore': 'lib/underscore-1.6.0'
+            'underscore': 'lib/underscore'
         }
     });
 
     require([
-        'backbone'
-    ], function (Backbone) {
+        'backbone',
+        'bootstrap',
+        'dust-helpers',
+    ], function (Backbone, Bootstrap, DustHelpers) {
         // Initialize routing
+        alert('Hello Gurkan!');
 
         // Start Backbone.history()
         Backbone.history.start();

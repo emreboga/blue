@@ -15,10 +15,12 @@ module.exports = function(grunt) {
         buildDevPath: "build-dev",
         buildProdPath: "build-prod",
         resourcesPath: "/resources",
+        jsonFolder: "/json",
         scriptsFolder: "/scripts",
         stylesFolder: "/styles",
         imagesFolder: "/images",
         templatesFolder: "/templates",
+        featureJsonPath: '<%= resourcesPath %><%= jsonFolder %>',
         featureScriptsPath: '<%= resourcesPath %><%= scriptsFolder %>',
         featureStylesPath: '<%= resourcesPath %><%= stylesFolder %>',
         featureImagesPath: '<%= resourcesPath %><%= imagesFolder %>',
@@ -77,8 +79,10 @@ module.exports = function(grunt) {
             dev: {
                 files: [
                     { src: ['**/*.js'], dest: '<%= buildDevPath %><%= featureScriptsPath %>/', expand: true, cwd: 'app/scripts'},
+                    { src: ['**/*.css'], dest: '<%= buildDevPath %><%= featureStylesPath %>/', expand: true, cwd: 'app/styles'},
+                    { src: ['**/*.map'], dest: '<%= buildDevPath %><%= featureStylesPath %>/', expand: true, cwd: 'app/styles'},
+                    { src: ['**/*.json'], dest: '<%= buildDevPath %><%= featureJsonPath %>/', expand: true, cwd: 'app/json'},
                     { src: ['**/*.html'], dest: '<%= buildDevPath %>/', expand: true, cwd: 'app'},
-                    { src: ['**/*.json'], dest: '<%= buildDevPath %><%= featureScriptsPath %>/', expand: true, cwd: 'app/scripts'},
                     { src: ['*.js'], dest: '<%= buildDevPath %>/', expand: true, cwd: 'app'},
                     { src: ['*.ico'], dest: '<%= buildDevPath %>/', expand: true, cwd: 'app'},
                     { src: ['*.txt'], dest: '<%= buildDevPath %>/', expand: true, cwd: 'app'}
