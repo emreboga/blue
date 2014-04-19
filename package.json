@@ -10,9 +10,11 @@
     "description": "Blue",
     "main": "server.js",
     "dependencies": {
+        "backbone": "~1.1.2",
         "dustjs-linkedin": "~2.0.2",
         "dustjs-helpers": "~1.1.1",
         "express": "~3.0.6",
+        "jquery": "~2.1.0",
         "nodemon": "~0.7.1"
     },
     "devDependencies": {
