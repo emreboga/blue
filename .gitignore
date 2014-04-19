@@ -2,6 +2,10 @@
 #####################
 build-*
 
+# node modules #
+################
+node_modules*
+
 # log files #
 #############
 *.log
