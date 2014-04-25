@@ -1,0 +1,14 @@
+<div class="tvshow_single">
+    <div class="floatLeft">
+        <div>
+            <img src="{poster}"></img>
+        </div>
+        <div>
+            <progress max="{totalEpisodes}" value="{currentEpisode}" class="tvshow_single_progressBar"></progress>
+        </div>
+    </div>
+    <div class="floatRight">
+        Play Next >
+    </div>
+    <div class="clear"></div>
+</div>

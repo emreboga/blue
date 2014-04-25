@@ -82,6 +82,7 @@ module.exports = function(grunt) {
                     { src: ['**/*.css'], dest: '<%= buildDevPath %><%= featureStylesPath %>/', expand: true, cwd: 'app/styles'},
                     { src: ['**/*.map'], dest: '<%= buildDevPath %><%= featureStylesPath %>/', expand: true, cwd: 'app/styles'},
                     { src: ['**/*.json'], dest: '<%= buildDevPath %><%= featureJsonPath %>/', expand: true, cwd: 'app/json'},
+                    { src: ['**/*.*'], dest: '<%= buildDevPath %><%= featureImagesPath %>/', expand: true, cwd: 'app/images'},
                     { src: ['**/*.html'], dest: '<%= buildDevPath %>/', expand: true, cwd: 'app'},
                     { src: ['*.js'], dest: '<%= buildDevPath %>/', expand: true, cwd: 'app'},
                     { src: ['*.ico'], dest: '<%= buildDevPath %>/', expand: true, cwd: 'app'},

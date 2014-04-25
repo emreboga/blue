@@ -1,0 +1,166 @@
+[
+    {
+       "__v":56,
+       "_id":"534f133983dbaae6f0cf3cf3",
+       "imdb_rating":87,
+       "name":"The Walking Dead",
+       "network":"AMC",
+       "overview":"Based on the comic book series of the same name, The Walking Dead tells the story of a small group of survivors living in the aftermath of a zombie apocalypse.",
+       "poster":"resources/images/the-walking-dead-banner.png",
+       "ratings":88,
+       "runtime":60,
+       "title":"the-walking-dead",
+       "votes":17327,
+       "year":2010,
+       "episodes":[
+          {
+             "_id":"534f4d8d46c5dfde0c5025bb"
+          }
+       ],
+       "totalEpisodes": 87,
+       "currentEpisode": 44,
+       "seasons":[
+          [
+             5,
+             2
+          ],
+          [
+             4,
+             16
+          ],
+          [
+             3,
+             16
+          ],
+          [
+             2,
+             13
+          ],
+          [
+             1,
+             6
+          ],
+          [
+             0,
+             34
+          ]
+       ],
+       "genres":[
+          "Drama",
+          "Horror",
+          "Suspense"
+       ]
+    },
+    {
+       "__v":33,
+       "_id":"534f133983dbaae6f0cf3cf2",
+       "imdb_rating":95,
+       "name":"Game of Thrones",
+       "network":"HBO",
+       "overview":"Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+       "poster":"resources/images/game-of-thrones-banner.jpg",
+       "ratings":94,
+       "runtime":60,
+       "title":"game-of-thrones",
+       "votes":21350,
+       "year":2011,
+       "episodes":[
+          {
+             "_id":"534f4d8d46c5dfde0c5025ba"
+          }
+       ],
+       "totalEpisodes": 50,
+       "currentEpisode": 50,
+       "seasons":[
+          [
+             4,
+             10
+          ],
+          [
+             3,
+             10
+          ],
+          [
+             2,
+             10
+          ],
+          [
+             1,
+             10
+          ],
+          [
+             0,
+             10
+          ]
+       ],
+       "genres":[
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Adventure",
+          "Horror",
+          "Romance",
+          "Special Interest",
+          "Suspense",
+          "Thriller"
+       ]
+    },
+    {
+       "__v":56,
+       "_id":"534f133983dbaae6f0cf3cf8",
+       "imdb_rating":87,
+       "name":"The Big Bang Theory",
+       "network":"CBS",
+       "overview":"What happens when hyperintelligent roommates Sheldon and Leonard meet Penny, a free-spirited beauty moving in next door, and realize they know next to nothing about life outside of the lab. Rounding out the crew are the smarmy Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers from an inability to speak in the presence of a woman.",
+       "poster":"resources/images/the-big-bang-theory-banner.jpg",
+       "ratings":88,
+       "runtime":30,
+       "title":"the-big-bang-theory",
+       "votes":19574,
+       "year":2007,
+       "episodes":[
+          {
+             "_id":"534f4d8d46c5dfde0c5025bf"
+          }
+       ],
+       "totalEpisodes": 162,
+       "currentEpisode": 155,
+       "seasons":[
+          [
+             7,
+             24
+          ],
+          [
+             6,
+             24
+          ],
+          [
+             5,
+             24
+          ],
+          [
+             4,
+             24
+          ],
+          [
+             3,
+             23
+          ],
+          [
+             2,
+             23
+          ],
+          [
+             1,
+             17
+          ],
+          [
+             0,
+             3
+          ]
+       ],
+       "genres":[
+          "Comedy"
+       ]
+    }
+]

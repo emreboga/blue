@@ -1,11 +1,52 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="stylesheet" type="text/css" href="resources/styles/app.css">
         <title>Blue Portal</title>
-        <link rel="stylesheet" type="text/css" href="resources/styles/lib/bootstrap.css">
-        <link rel="stylesheet" type="text/css" href="resources/styles/lib/bootstrap-theme.css">
     </head>
     <body>
-        <script data-main="resources/scripts/blue" src="resources/scripts/lib/require.js"></script>
+        <!-- Facebook Login component - START -->
+        <div id="fb-root"></div>
+        <script>
+            window.fbAsyncInit = function() {
+                FB.init({
+                    appId   : '624274947648565',
+                    status  : true, // check login status
+                    cookie  : true, // enable cookies to allow the server to access the session
+                    xfbml   : true  // parse XFBML
+                });
+            };
+
+            // Load the SDK asynchronously
+            (function(d){
+                var js,
+                    id = 'facebook-jssdk',
+                    ref = d.getElementsByTagName('script')[0];
+                if(d.getElementById(id)){
+                    return;
+                }
+                js = d.createElement('script');
+                js.id = id;
+                js.async = true;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                ref.parentNode.insertBefore(js, ref);
+            }(document));
+        </script>
+        <!-- Facebook Login component - END -->
+
+        <!-- Main HTML content -->
+        <div class="navbar-container">
+            <div class="navbar"></div>
+            <div class="fb-login-button login" data-max-rows="1" data-size="large" data-show-faces="false" data-auto-logout-link="true"></div>
+            <div class="clear"></div>
+        </div>
+        <div id="tv_shows">
+        </div>
+
+        <!-- JavaScript files -->
+        <script src="resources/scripts/lib/require.js" data-main="resources/scripts/blue"></script>
+        <script src="resources/scripts/lib/dust-core.js"></script>
+        <script src="resources/scripts/lib/dust-helpers.js"></script>
     </body>
 </html>

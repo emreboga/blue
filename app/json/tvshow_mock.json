@@ -1,0 +1,867 @@
+[
+    {
+       "__v":56,
+       "_id":"534f133983dbaae6f0cf3cf3",
+       "imdb_rating":87,
+       "name":"The Walking Dead",
+       "network":"AMC",
+       "overview":"Based on the comic book series of the same name, The Walking Dead tells the story of a small group of survivors living in the aftermath of a zombie apocalypse.",
+       "poster":"resources/images/the-walking-dead-banner.png",
+       "ratings":88,
+       "runtime":60,
+       "title":"the-walking-dead",
+       "votes":17327,
+       "year":2010,
+       "people":[
+          {
+             "name":"Andrew Lincoln",
+             "character":"Rick Grimes",
+             "_id":"534f144f127dc8d5f13a6cb4"
+          },
+          {
+             "name":"Sarah Wayne Callies",
+             "character":"Lori Grimes",
+             "_id":"534f144f127dc8d5f13a6cb3"
+          },
+          {
+             "name":"Steven Yeun",
+             "character":"Glenn",
+             "_id":"534f144f127dc8d5f13a6cb2"
+          },
+          {
+             "name":"Jon Bernthal",
+             "character":"Shane Walsh",
+             "_id":"534f144f127dc8d5f13a6cb1"
+          },
+          {
+             "name":"Sonequa Martin-Green",
+             "character":"Sasha",
+             "_id":"534f144f127dc8d5f13a6cb0"
+          },
+          {
+             "name":null,
+             "character":"Glenn",
+             "_id":"534f144f127dc8d5f13a6caf"
+          },
+          {
+             "name":"Chad L. Coleman",
+             "character":"Tyreese",
+             "_id":"534f144f127dc8d5f13a6cae"
+          },
+          {
+             "name":"Chandler Riggs",
+             "character":"Carl Grimes",
+             "_id":"534f144f127dc8d5f13a6cad"
+          },
+          {
+             "name":"Dallas Roberts",
+             "character":"Milton Mamet",
+             "_id":"534f144f127dc8d5f13a6cac"
+          },
+          {
+             "name":"Danai Gurira",
+             "character":"Michonne",
+             "_id":"534f144f127dc8d5f13a6cab"
+          },
+          {
+             "name":"David Morrissey",
+             "character":"The Governor",
+             "_id":"534f144f127dc8d5f13a6caa"
+          },
+          {
+             "name":"Emily Kinney",
+             "character":"Beth Greene",
+             "_id":"534f144f127dc8d5f13a6ca9"
+          },
+          {
+             "name":"Emma Bell",
+             "character":"Amy",
+             "_id":"534f144f127dc8d5f13a6ca8"
+          },
+          {
+             "name":"IronE Singleton",
+             "character":"T-Dog",
+             "_id":"534f144f127dc8d5f13a6ca7"
+          },
+          {
+             "name":"Jeffrey DeMunn",
+             "character":"Dale",
+             "_id":"534f144f127dc8d5f13a6ca6"
+          },
+          {
+             "name":"Lauren Cohan",
+             "character":"Maggie Greene",
+             "_id":"534f144f127dc8d5f13a6ca5"
+          },
+          {
+             "name":"Laurie Holden",
+             "character":"Andrea",
+             "_id":"534f144f127dc8d5f13a6ca4"
+          },
+          {
+             "name":"Lawrence Gilliard Jr.",
+             "character":"Bob Stookey",
+             "_id":"534f144f127dc8d5f13a6ca3"
+          },
+          {
+             "name":"Melissa McBride",
+             "character":"Carol Peletier",
+             "_id":"534f144f127dc8d5f13a6ca2"
+          },
+          {
+             "name":"Michael Rooker",
+             "character":"Merle Dixon",
+             "_id":"534f144f127dc8d5f13a6ca1"
+          },
+          {
+             "name":"Norman Reedus",
+             "character":"Daryl Dixon",
+             "_id":"534f144f127dc8d5f13a6ca0"
+          },
+          {
+             "name":"Scott Wilson",
+             "character":"Hershel Greene",
+             "_id":"534f144f127dc8d5f13a6c9f"
+          }
+       ],
+       "episodes":[
+          {
+             "_id":"534f4d8d46c5dfde0c5025bb"
+          }
+       ],
+       "seasons_details":[
+          {
+             "season":5,
+             "episodes":2,
+             "url":"http://trakt.tv/show/the-walking-dead/season/5",
+             "poster":"http://slurm.trakt.us/images/posters/124.38.jpg",
+             "_id":"534f16ede2c8348df4bdd10f",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/posters/124.38.jpg"
+             }
+          },
+          {
+             "season":4,
+             "episodes":16,
+             "url":"http://trakt.tv/show/the-walking-dead/season/4",
+             "poster":"http://slurm.trakt.us/images/seasons/124-4.38.jpg",
+             "_id":"534f16ede2c8348df4bdd10e",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/124-4.38.jpg"
+             }
+          },
+          {
+             "season":3,
+             "episodes":16,
+             "url":"http://trakt.tv/show/the-walking-dead/season/3",
+             "poster":"http://slurm.trakt.us/images/seasons/124-3.38.jpg",
+             "_id":"534f16ede2c8348df4bdd10d",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/124-3.38.jpg"
+             }
+          },
+          {
+             "season":2,
+             "episodes":13,
+             "url":"http://trakt.tv/show/the-walking-dead/season/2",
+             "poster":"http://slurm.trakt.us/images/seasons/124-2.38.jpg",
+             "_id":"534f16ede2c8348df4bdd10c",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/124-2.38.jpg"
+             }
+          },
+          {
+             "season":1,
+             "episodes":6,
+             "url":"http://trakt.tv/show/the-walking-dead/season/1",
+             "poster":"http://slurm.trakt.us/images/seasons/124-1.38.jpg",
+             "_id":"534f16ede2c8348df4bdd10b",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/124-1.38.jpg"
+             }
+          },
+          {
+             "season":0,
+             "episodes":34,
+             "url":"http://trakt.tv/show/the-walking-dead/specials",
+             "poster":"http://slurm.trakt.us/images/seasons/124-0.38.jpg",
+             "_id":"534f16ede2c8348df4bdd10a",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/124-0.38.jpg"
+             }
+          }
+       ],
+       "seasons":[
+          [
+             5,
+             2
+          ],
+          [
+             4,
+             16
+          ],
+          [
+             3,
+             16
+          ],
+          [
+             2,
+             13
+          ],
+          [
+             1,
+             6
+          ],
+          [
+             0,
+             34
+          ]
+       ],
+       "genres":[
+          "Drama",
+          "Horror",
+          "Suspense"
+       ]
+    },
+    {
+       "__v":33,
+       "_id":"534f133983dbaae6f0cf3cf2",
+       "imdb_rating":95,
+       "name":"Game of Thrones",
+       "network":"HBO",
+       "overview":"Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+       "poster":"resources/images/game-of-thrones-banner.jpg",
+       "ratings":94,
+       "runtime":60,
+       "title":"game-of-thrones",
+       "votes":21350,
+       "year":2011,
+       "people":[
+          {
+             "name":"Sean Bean",
+             "character":"Eddard Stark",
+             "_id":"534f1450127dc8d5f13a6d6e"
+          },
+          {
+             "name":"Emilia Clarke",
+             "character":"Daenerys Targaryen",
+             "_id":"534f1450127dc8d5f13a6d6d"
+          },
+          {
+             "name":"Joseph Mawle",
+             "character":"Benjen Stark",
+             "_id":"534f1450127dc8d5f13a6d6c"
+          },
+          {
+             "name":"Kit Harington",
+             "character":"Jon Snow",
+             "_id":"534f1450127dc8d5f13a6d6b"
+          },
+          {
+             "name":"Mark Addy",
+             "character":"King Robert Baratheon",
+             "_id":"534f1450127dc8d5f13a6d6a"
+          },
+          {
+             "name":"Peter Dinklage",
+             "character":"Tyrion Lannister",
+             "_id":"534f1450127dc8d5f13a6d69"
+          },
+          {
+             "name":"Ron Donachie",
+             "character":"Rodrik Cassel",
+             "_id":"534f1450127dc8d5f13a6d68"
+          },
+          {
+             "name":"Aimee Richardson",
+             "character":"Myrcella Baratheon",
+             "_id":"534f1450127dc8d5f13a6d67"
+          },
+          {
+             "name":"Amrita Acharia",
+             "character":"Irri",
+             "_id":"534f1450127dc8d5f13a6d66"
+          },
+          {
+             "name":"Eugene Simon",
+             "character":"Lancel Lannister",
+             "_id":"534f1450127dc8d5f13a6d65"
+          },
+          {
+             "name":"Hannah Murray",
+             "character":"Gilly",
+             "_id":"534f1450127dc8d5f13a6d64"
+          },
+          {
+             "name":"Jason Momoa",
+             "character":"Khal Drogo",
+             "_id":"534f1450127dc8d5f13a6d63"
+          },
+          {
+             "name":"Lino Facioli",
+             "character":"Robin Arryn",
+             "_id":"534f1450127dc8d5f13a6d62"
+          },
+          {
+             "name":"Maisie Williams",
+             "character":"Arya Stark",
+             "_id":"534f1450127dc8d5f13a6d61"
+          },
+          {
+             "name":"Richard Madden",
+             "character":"Robb Stark",
+             "_id":"534f1450127dc8d5f13a6d60"
+          },
+          {
+             "name":"Roxanne McKee",
+             "character":"Doreah",
+             "_id":"534f1450127dc8d5f13a6d5f"
+          },
+          {
+             "name":null,
+             "character":"Daenerys Targaryen",
+             "_id":"534f1450127dc8d5f13a6d5e"
+          },
+          {
+             "name":"Aidan Gillen",
+             "character":"Petyr \"Littlefinger\" Baelish",
+             "_id":"534f1450127dc8d5f13a6d5d"
+          },
+          {
+             "name":"Alfie Allen",
+             "character":"Theon Greyjoy",
+             "_id":"534f1450127dc8d5f13a6d5c"
+          },
+          {
+             "name":"Art Parkinson",
+             "character":"Rickon Stark",
+             "_id":"534f1450127dc8d5f13a6d5b"
+          },
+          {
+             "name":"Carice van Houten",
+             "character":"Melisandre of Asshai",
+             "_id":"534f1450127dc8d5f13a6d5a"
+          },
+          {
+             "name":"Charles Dance",
+             "character":"Tywin Lannister",
+             "_id":"534f1450127dc8d5f13a6d59"
+          },
+          {
+             "name":"Ciarán Hinds",
+             "character":"Mance Rayder",
+             "_id":"534f1450127dc8d5f13a6d58"
+          },
+          {
+             "name":"Conleth Hill",
+             "character":"Lord Varys",
+             "_id":"534f1450127dc8d5f13a6d57"
+          },
+          {
+             "name":"Donald Sumpter",
+             "character":"Master Luwin",
+             "_id":"534f1450127dc8d5f13a6d56"
+          },
+          {
+             "name":"Elyes Gabel",
+             "character":"Rakharo",
+             "_id":"534f1450127dc8d5f13a6d55"
+          },
+          {
+             "name":"Esmé Bianco",
+             "character":"Ros",
+             "_id":"534f1450127dc8d5f13a6d54"
+          },
+          {
+             "name":"Finn Jones",
+             "character":"Loras Tyrell",
+             "_id":"534f1450127dc8d5f13a6d53"
+          },
+          {
+             "name":"Gemma Whelan",
+             "character":"Yara Greyjoy",
+             "_id":"534f1450127dc8d5f13a6d52"
+          },
+          {
+             "name":"Gethin Anthony",
+             "character":"Renly Baratheon",
+             "_id":"534f1450127dc8d5f13a6d51"
+          },
+          {
+             "name":"Gwendoline Christie",
+             "character":"Brienne of Tarth",
+             "_id":"534f1450127dc8d5f13a6d50"
+          },
+          {
+             "name":"Harry Lloyd",
+             "character":"Viserys Targaryen",
+             "_id":"534f1450127dc8d5f13a6d4f"
+          },
+          {
+             "name":"Iain Glen",
+             "character":"Ser Jorah Mormont",
+             "_id":"534f1450127dc8d5f13a6d4e"
+          },
+          {
+             "name":"Isaac Hempstead-Wright",
+             "character":"Bran Stark",
+             "_id":"534f1450127dc8d5f13a6d4d"
+          },
+          {
+             "name":"Iwan Rheon",
+             "character":"Ramsay Snow",
+             "_id":"534f1450127dc8d5f13a6d4c"
+          },
+          {
+             "name":"Jack Gleeson",
+             "character":"Prince Joffrey Baratheon",
+             "_id":"534f1450127dc8d5f13a6d4b"
+          },
+          {
+             "name":"Jacob Anderson",
+             "character":"Grey Worm",
+             "_id":"534f1450127dc8d5f13a6d4a"
+          },
+          {
+             "name":"James Cosmo",
+             "character":"Jeor Mormont",
+             "_id":"534f1450127dc8d5f13a6d49"
+          },
+          {
+             "name":"Jerome Flynn",
+             "character":"Bronn",
+             "_id":"534f1450127dc8d5f13a6d48"
+          },
+          {
+             "name":"Joe Dempsie",
+             "character":"Gendry",
+             "_id":"534f1450127dc8d5f13a6d47"
+          },
+          {
+             "name":"John Bradley",
+             "character":"Samwell Tarly",
+             "_id":"534f1450127dc8d5f13a6d46"
+          },
+          {
+             "name":"Julian Glover",
+             "character":"Grand Master Pycelle",
+             "_id":"534f1450127dc8d5f13a6d45"
+          },
+          {
+             "name":"Kate Dickie",
+             "character":"Lysa Arryn",
+             "_id":"534f1450127dc8d5f13a6d44"
+          },
+          {
+             "name":"Kerry Ingram",
+             "character":"Shireen Baratheon",
+             "_id":"534f1450127dc8d5f13a6d43"
+          },
+          {
+             "name":"Kristian Nairn",
+             "character":"Hodor",
+             "_id":"534f1450127dc8d5f13a6d42"
+          },
+          {
+             "name":"Lena Headey",
+             "character":"Cersei Lannister",
+             "_id":"534f1450127dc8d5f13a6d41"
+          },
+          {
+             "name":"Liam Cunningham",
+             "character":"Davos Seaworth",
+             "_id":"534f1450127dc8d5f13a6d40"
+          },
+          {
+             "name":"Mackenzie Crook",
+             "character":"Orell",
+             "_id":"534f1450127dc8d5f13a6d3f"
+          },
+          {
+             "name":"Michael McElhatton",
+             "character":"Roose Bolton",
+             "_id":"534f1450127dc8d5f13a6d3e"
+          },
+          {
+             "name":"Michelle Fairley",
+             "character":"Caitlin Stark",
+             "_id":"534f1450127dc8d5f13a6d3d"
+          },
+          {
+             "name":"Natalia Tena",
+             "character":"Osha",
+             "_id":"534f1450127dc8d5f13a6d3c"
+          },
+          {
+             "name":"Natalie Dormer",
+             "character":"Margaery Tyrell",
+             "_id":"534f1450127dc8d5f13a6d3b"
+          },
+          {
+             "name":"Nathalie Emmanuel",
+             "character":"Missandei",
+             "_id":"534f1450127dc8d5f13a6d3a"
+          },
+          {
+             "name":"Nikolaj Coster-Waldau",
+             "character":"Jamie Lannister",
+             "_id":"534f1450127dc8d5f13a6d39"
+          },
+          {
+             "name":"Nonso Anozie",
+             "character":"Xaro Xhoan Daxos",
+             "_id":"534f1450127dc8d5f13a6d38"
+          },
+          {
+             "name":"Oona Chaplin",
+             "character":"Talisa Maegyr",
+             "_id":"534f1450127dc8d5f13a6d37"
+          },
+          {
+             "name":"Patrick Malahide",
+             "character":"Balon Greyjoy",
+             "_id":"534f1450127dc8d5f13a6d36"
+          },
+          {
+             "name":"Pedro Pascal",
+             "character":"Oberyn \"The Red Viper\" Martell",
+             "_id":"534f1450127dc8d5f13a6d35"
+          },
+          {
+             "name":"Peter Vaughan",
+             "character":"Maester Aemon",
+             "_id":"534f1450127dc8d5f13a6d34"
+          },
+          {
+             "name":"Rory McCann",
+             "character":"Sandor \"The Hound\" Clegane",
+             "_id":"534f1450127dc8d5f13a6d33"
+          },
+          {
+             "name":"Rose Leslie",
+             "character":"Ygritte",
+             "_id":"534f1450127dc8d5f13a6d32"
+          },
+          {
+             "name":"Roy Dotrice",
+             "character":"Wisdom Hallyne \"The Pyromancer\"",
+             "_id":"534f1450127dc8d5f13a6d31"
+          },
+          {
+             "name":"Sibel Kekilli",
+             "character":"Shae",
+             "_id":"534f1450127dc8d5f13a6d30"
+          },
+          {
+             "name":"Sophie Turner",
+             "character":"Sansa Stark",
+             "_id":"534f1450127dc8d5f13a6d2f"
+          },
+          {
+             "name":"Stephen Dillane",
+             "character":"Stannis Baratheon",
+             "_id":"534f1450127dc8d5f13a6d2e"
+          },
+          {
+             "name":"Tom Wlaschiha",
+             "character":"Jaqen H'ghar",
+             "_id":"534f1450127dc8d5f13a6d2d"
+          },
+          {
+             "name":"زينة",
+             "character":"",
+             "_id":"534f1450127dc8d5f13a6d2c"
+          },
+          {
+             "name":"이경영",
+             "character":"",
+             "_id":"534f1450127dc8d5f13a6d2b"
+          }
+       ],
+       "episodes":[
+          {
+             "_id":"534f4d8d46c5dfde0c5025ba"
+          }
+       ],
+       "seasons_details":[
+          {
+             "season":4,
+             "episodes":10,
+             "url":"http://trakt.tv/show/game-of-thrones/season/4",
+             "poster":"http://slurm.trakt.us/images/seasons/1395-4.66.jpg",
+             "_id":"534f16efe2c8348df4bdd179",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/1395-4.66.jpg"
+             }
+          },
+          {
+             "season":3,
+             "episodes":10,
+             "url":"http://trakt.tv/show/game-of-thrones/season/3",
+             "poster":"http://slurm.trakt.us/images/seasons/1395-3.66.jpg",
+             "_id":"534f16efe2c8348df4bdd178",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/1395-3.66.jpg"
+             }
+          },
+          {
+             "season":2,
+             "episodes":10,
+             "url":"http://trakt.tv/show/game-of-thrones/season/2",
+             "poster":"http://slurm.trakt.us/images/seasons/1395-2.66.jpg",
+             "_id":"534f16efe2c8348df4bdd177",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/1395-2.66.jpg"
+             }
+          },
+          {
+             "season":1,
+             "episodes":10,
+             "url":"http://trakt.tv/show/game-of-thrones/season/1",
+             "poster":"http://slurm.trakt.us/images/seasons/1395-1.66.jpg",
+             "_id":"534f16efe2c8348df4bdd176",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/1395-1.66.jpg"
+             }
+          },
+          {
+             "season":0,
+             "episodes":10,
+             "url":"http://trakt.tv/show/game-of-thrones/specials",
+             "poster":"http://slurm.trakt.us/images/seasons/1395-0.66.jpg",
+             "_id":"534f16efe2c8348df4bdd175",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/1395-0.66.jpg"
+             }
+          }
+       ],
+       "seasons":[
+          [
+             4,
+             10
+          ],
+          [
+             3,
+             10
+          ],
+          [
+             2,
+             10
+          ],
+          [
+             1,
+             10
+          ],
+          [
+             0,
+             10
+          ]
+       ],
+       "genres":[
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Adventure",
+          "Horror",
+          "Romance",
+          "Special Interest",
+          "Suspense",
+          "Thriller"
+       ]
+    },
+    {
+       "__v":56,
+       "_id":"534f133983dbaae6f0cf3cf8",
+       "imdb_rating":87,
+       "name":"The Big Bang Theory",
+       "network":"CBS",
+       "overview":"What happens when hyperintelligent roommates Sheldon and Leonard meet Penny, a free-spirited beauty moving in next door, and realize they know next to nothing about life outside of the lab. Rounding out the crew are the smarmy Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers from an inability to speak in the presence of a woman.",
+       "poster":"resources/images/the-big-bang-theory-banner.jpg",
+       "ratings":88,
+       "runtime":30,
+       "title":"the-big-bang-theory",
+       "votes":19574,
+       "year":2007,
+       "people":[
+          {
+             "name":"Jim Parsons",
+             "character":"Sheldon Cooper",
+             "_id":"534f1450127dc8d5f13a6d0f"
+          },
+          {
+             "name":"Johnny Galecki",
+             "character":"Leonard Hofstadter",
+             "_id":"534f1450127dc8d5f13a6d0e"
+          },
+          {
+             "name":"Kaley Cuoco",
+             "character":"Penny",
+             "_id":"534f1450127dc8d5f13a6d0d"
+          },
+          {
+             "name":"Kunal Nayyar",
+             "character":"Rajesh Koothrappali",
+             "_id":"534f1450127dc8d5f13a6d0c"
+          },
+          {
+             "name":null,
+             "character":"Rajnesh Koothrappali",
+             "_id":"534f1450127dc8d5f13a6d0b"
+          },
+          {
+             "name":"Mayim Bialik",
+             "character":"Amy Farrah Fowler",
+             "_id":"534f1450127dc8d5f13a6d0a"
+          },
+          {
+             "name":"Melissa Rauch",
+             "character":"Bernadette Rostenkowski",
+             "_id":"534f1450127dc8d5f13a6d09"
+          },
+          {
+             "name":"Simon Helberg",
+             "character":"Howard Wolowitz",
+             "_id":"534f1450127dc8d5f13a6d08"
+          },
+          {
+             "name":"Aarti Mann",
+             "character":"Priya Koothrappali",
+             "_id":"534f1450127dc8d5f13a6d07"
+          },
+          {
+             "name":"Kevin Sussman",
+             "character":"Stuart",
+             "_id":"534f1450127dc8d5f13a6d06"
+          },
+          {
+             "name":"Sara Gilbert",
+             "character":"Leslie Winkle",
+             "_id":"534f1450127dc8d5f13a6d05"
+          }
+       ],
+       "episodes":[
+          {
+             "_id":"534f4d8d46c5dfde0c5025bf"
+          }
+       ],
+       "seasons_details":[
+          {
+             "season":7,
+             "episodes":24,
+             "url":"http://trakt.tv/show/the-big-bang-theory/season/7",
+             "poster":"http://slurm.trakt.us/images/seasons/34-7.67.jpg",
+             "_id":"534f16efe2c8348df4bdd16a",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/34-7.67.jpg"
+             }
+          },
+          {
+             "season":6,
+             "episodes":24,
+             "url":"http://trakt.tv/show/the-big-bang-theory/season/6",
+             "poster":"http://slurm.trakt.us/images/seasons/34-6.67.jpg",
+             "_id":"534f16efe2c8348df4bdd169",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/34-6.67.jpg"
+             }
+          },
+          {
+             "season":5,
+             "episodes":24,
+             "url":"http://trakt.tv/show/the-big-bang-theory/season/5",
+             "poster":"http://slurm.trakt.us/images/seasons/34-5.67.jpg",
+             "_id":"534f16efe2c8348df4bdd168",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/34-5.67.jpg"
+             }
+          },
+          {
+             "season":4,
+             "episodes":24,
+             "url":"http://trakt.tv/show/the-big-bang-theory/season/4",
+             "poster":"http://slurm.trakt.us/images/seasons/34-4.67.jpg",
+             "_id":"534f16efe2c8348df4bdd167",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/34-4.67.jpg"
+             }
+          },
+          {
+             "season":3,
+             "episodes":23,
+             "url":"http://trakt.tv/show/the-big-bang-theory/season/3",
+             "poster":"http://slurm.trakt.us/images/seasons/34-3.67.jpg",
+             "_id":"534f16efe2c8348df4bdd166",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/34-3.67.jpg"
+             }
+          },
+          {
+             "season":2,
+             "episodes":23,
+             "url":"http://trakt.tv/show/the-big-bang-theory/season/2",
+             "poster":"http://slurm.trakt.us/images/seasons/34-2.67.jpg",
+             "_id":"534f16efe2c8348df4bdd165",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/34-2.67.jpg"
+             }
+          },
+          {
+             "season":1,
+             "episodes":17,
+             "url":"http://trakt.tv/show/the-big-bang-theory/season/1",
+             "poster":"http://slurm.trakt.us/images/seasons/34-1.67.jpg",
+             "_id":"534f16efe2c8348df4bdd164",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/34-1.67.jpg"
+             }
+          },
+          {
+             "season":0,
+             "episodes":3,
+             "url":"http://trakt.tv/show/the-big-bang-theory/specials",
+             "poster":"http://slurm.trakt.us/images/seasons/34-0.67.jpg",
+             "_id":"534f16efe2c8348df4bdd163",
+             "images":{
+                "poster":"http://slurm.trakt.us/images/seasons/34-0.67.jpg"
+             }
+          }
+       ],
+       "seasons":[
+          [
+             7,
+             24
+          ],
+          [
+             6,
+             24
+          ],
+          [
+             5,
+             24
+          ],
+          [
+             4,
+             24
+          ],
+          [
+             3,
+             23
+          ],
+          [
+             2,
+             23
+          ],
+          [
+             1,
+             17
+          ],
+          [
+             0,
+             3
+          ]
+       ],
+       "genres":[
+          "Comedy"
+       ]
+    }
+]

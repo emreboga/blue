@@ -3,16 +3,14 @@ define([], function() {
 
     // Require config allows us to configure shortcut alias
     require.config({
-        // The shim config allows us to configure dependencies for
-        // scripts that do not call define() to register a module
+        baseUrl: "/resources",
+        paths: {
+            'backbone': 'scripts/lib/backbone',
+            'bootstrap': 'scripts/lib/bootstrap',
+            'jquery': 'scripts/lib/jquery',
+            'underscore': 'scripts/lib/underscore'
+        },
         shim: {
-            'dust': {
-                exports: 'dust'
-            },
-            'dust-helpers': {
-                deps: ['dust'],
-                exports: 'dust.helpers'
-            },
             'underscore': {
                 exports: '_'
             },
@@ -20,29 +18,21 @@ define([], function() {
                 deps: ['underscore', 'jquery'],
                 exports: 'Backbone'
             }
-        },
-        paths: {
-            'backbone': 'lib/backbone',
-            'bootstrap': 'lib/bootstrap',
-            'dust': 'lib/dust-core',
-            'dust-helpers': 'lib/dust-helpers',
-            'jquery': 'lib/jquery',
-            'underscore': 'lib/underscore'
         }
     });
 
     require([
         'backbone',
-        'bootstrap',
-        'dust-helpers',
-    ], function (Backbone, Bootstrap, DustHelpers) {
+        'scripts/views/app_view'
+    ], function (Backbone, App) {
         // Initialize routing
-        alert('Hello Gurkan!');
+        
 
         // Start Backbone.history()
         Backbone.history.start();
 
         // Initialize the application view
+        var app = new App();
 
     });
 });
