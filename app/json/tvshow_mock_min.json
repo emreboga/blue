@@ -1,4 +1,4 @@
-[
+    [
     {
        "__v":56,
        "_id":"534f133983dbaae6f0cf3cf3",
@@ -19,6 +19,8 @@
        ],
        "totalEpisodes": 87,
        "currentEpisode": 44,
+       "lastSeason": 6,
+       "lastEpisode": 3,
        "seasons":[
           [
              5,
@@ -71,6 +73,10 @@
        ],
        "totalEpisodes": 50,
        "currentEpisode": 50,
+       "lastSeason": 5,
+       "lastEpisode": 10,
+       "userSeason": 5,
+       "userEpisode": 10,
        "seasons":[
           [
              4,
@@ -125,6 +131,10 @@
        ],
        "totalEpisodes": 162,
        "currentEpisode": 155,
+       "lastSeason": 8,
+       "lastEpisode": 24,
+       "userSeason": 8,
+       "userEpisode": 17,
        "seasons":[
           [
              7,

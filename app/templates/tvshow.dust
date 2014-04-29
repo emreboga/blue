@@ -1,14 +1,32 @@
 <div class="tvshow_single">
     <div class="floatLeft">
-        <div>
-            <img src="{poster}"></img>
+        <div class="floatLeft">
+            <div class="tvshow_banner">
+                <img src="{poster}" style="max-width: 100%; max-height: 100%;"></img>
+            </div>
+            <div>
+                {@if cond="{lastseason.lastepisode} > {userdata.episode}"}
+                    <progress max="{lastseason.lastepisode}" value="{userdata.episode}" class="tvshow_single_progressBar tvshow_single_progressBar_incomplete"></progress>
+                {:else}
+                    <progress max="{lastseason.lastepisode}" value="{userdata.episode}" class="tvshow_single_progressBar tvshow_single_progressBar_complete"></progress>
+                {/if}
+            </div>
         </div>
-        <div>
-            <progress max="{totalEpisodes}" value="{currentEpisode}" class="tvshow_single_progressBar"></progress>
+        <div class="floatRight">
+            <div class="tvshow_single_info">
+                <div>Last aired season {lastseason.no} episode {lastseason.lastepisode}</div>
+                <div>You are at season {userdata.season} episode {userdata.episode}</div>
+                {@if cond="{lastseason.lastepisode} > {userdata.episode}"}
+                    <div>{@timeToCatchUp/}</div>
+                {:else}
+                    <div>All caught up!</div>
+                {/if}
+            </div>
         </div>
+        <div class="clear"></div>
     </div>
     <div class="floatRight">
-        Play Next >
+        <div class="tvshow_watchNow">Watch episode {@math key=userdata.episode method="add" operand="1"/} now!</div>
     </div>
     <div class="clear"></div>
 </div>

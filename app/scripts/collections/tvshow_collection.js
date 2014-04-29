@@ -12,7 +12,7 @@ define([
         },
 
         url: function () {
-            return "/resources/json/tvshow_mock_min.json";
+            return "/resources/json/tvshow_mock_collection.json";
         },
 
         parse: function(response) {

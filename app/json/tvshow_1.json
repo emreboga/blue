@@ -1,0 +1,95 @@
+{
+    "name" : "the-walking-dead",
+    "title" : "The Walking Dead",
+    "network" : "AMC",
+    "online" : [],
+    "overview" : "Based on the comic book series of the same name, The Walking Dead tells the story of a small group of survivors living in the aftermath of a zombie apocalypse.",
+    "poster" : "resources/images/the-walking-dead-banner.png",
+    "runtime" : 60,
+    "currentSeason" :
+    [
+        [
+            {
+                "noinseries": 36,
+                "title": "30 Days Without an Accident",
+                "date": "October 13, 2013"
+            },
+            {
+                "noinseries": 37,
+                "title": "Infected",
+                "date": "October 20, 2013"
+            },
+            {
+                "noinseries": 38,
+                "title": "Isolation",
+                "date": "October 27, 2013"
+            },
+            {
+                "noinseries": 39,
+                "title": "Indifference",
+                "date": "November 3, 2013"
+            },
+            {
+                "noinseries": 40,
+                "title": "Internment",
+                "date": "November 10, 2013"
+            },
+            {
+                "noinseries": 41,
+                "title": "Live Bait",
+                "date": "November 17, 2013"
+            },
+            {
+                "noinseries": 42,
+                "title": "Dead Weight",
+                "date": "November 24, 2013"
+            },
+            {
+                "noinseries": 43,
+                "title": "Too Far Gone",
+                "date": "December 1, 2013"
+            },
+            {
+                "noinseries": 44,
+                "title": "After",
+                "date": "February 9, 2014"
+            },
+            {
+                "noinseries": 45,
+                "title": "Inmates",
+                "date": "February 16, 2014"
+            },
+            {
+                "noinseries": 46,
+                "title": "Claimed",
+                "date": "February 23, 2014"
+            },
+            {
+                "noinseries": 47,
+                "title": "Still",
+                "date": "March 2, 2014"
+            },
+            {
+                "noinseries": 48,
+                "title": "Alone",
+                "date": "March 9, 2014"
+            },
+            {
+                "noinseries": 49,
+                "title": "The Grove",
+                "date": "March 16, 2014"
+            },
+            {
+                "noinseries": 50,
+                "title": "Us",
+                "date": "March 23, 2014"
+            },
+            {
+                "noinseries": 51,
+                "title": "A",
+                "date": "March 30, 2014"
+            }
+        ]
+    ],
+    "AllSeasons" : [],
+}

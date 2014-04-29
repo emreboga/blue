@@ -1,0 +1,58 @@
+{
+   "__v":33,
+   "_id":"534f133983dbaae6f0cf3cf2",
+   "imdb_rating":95,
+   "name":"Game of Thrones",
+   "network":"HBO",
+   "overview":"Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+   "poster":"resources/images/game-of-thrones-banner.jpg",
+   "ratings":94,
+   "runtime":60,
+   "title":"game-of-thrones",
+   "votes":21350,
+   "year":2011,
+   "episodes":[
+      {
+         "_id":"534f4d8d46c5dfde0c5025ba"
+      }
+   ],
+   "totalEpisodes": 50,
+   "currentEpisode": 50,
+   "lastSeason": 5,
+   "lastEpisode": 10,
+   "userSeason": 5,
+   "userEpisode": 10,
+   "seasons":[
+      [
+         4,
+         10
+      ],
+      [
+         3,
+         10
+      ],
+      [
+         2,
+         10
+      ],
+      [
+         1,
+         10
+      ],
+      [
+         0,
+         10
+      ]
+   ],
+   "genres":[
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Adventure",
+      "Horror",
+      "Romance",
+      "Special Interest",
+      "Suspense",
+      "Thriller"
+   ]
+}

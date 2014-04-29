@@ -1,7 +1,8 @@
 define(['backbone',
         'scripts/collections/tvshow_collection',
         'scripts/views/tvshow_view',
-        'scripts/views/navbar_view'], 
+        'scripts/views/navbar_view',
+        'scripts/helpers/dustHelpers'], 
     function(Backbone, TVShowCollection, TVShowView, navBarView){
 
         var appView = Backbone.View.extend({

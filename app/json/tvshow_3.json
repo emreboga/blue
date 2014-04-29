@@ -1,0 +1,62 @@
+{
+   "__v":56,
+   "_id":"534f133983dbaae6f0cf3cf8",
+   "imdb_rating":87,
+   "name":"The Big Bang Theory",
+   "network":"CBS",
+   "overview":"What happens when hyperintelligent roommates Sheldon and Leonard meet Penny, a free-spirited beauty moving in next door, and realize they know next to nothing about life outside of the lab. Rounding out the crew are the smarmy Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers from an inability to speak in the presence of a woman.",
+   "poster":"resources/images/the-big-bang-theory-banner.jpg",
+   "ratings":88,
+   "runtime":30,
+   "title":"the-big-bang-theory",
+   "votes":19574,
+   "year":2007,
+   "episodes":[
+      {
+         "_id":"534f4d8d46c5dfde0c5025bf"
+      }
+   ],
+   "totalEpisodes": 162,
+   "currentEpisode": 155,
+   "lastSeason": 8,
+   "lastEpisode": 24,
+   "userSeason": 8,
+   "userEpisode": 17,
+   "seasons":[
+      [
+         7,
+         24
+      ],
+      [
+         6,
+         24
+      ],
+      [
+         5,
+         24
+      ],
+      [
+         4,
+         24
+      ],
+      [
+         3,
+         23
+      ],
+      [
+         2,
+         23
+      ],
+      [
+         1,
+         17
+      ],
+      [
+         0,
+         3
+      ]
+   ],
+   "genres":[
+      "Comedy"
+   ]
+}

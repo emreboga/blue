@@ -1,0 +1,337 @@
+[
+    {
+        "name" : "the-walking-dead",
+        "title" : "The Walking Dead",
+        "network" : "AMC",
+        "online" : [],
+        "overview" : "Based on the comic book series of the same name, The Walking Dead tells the story of a small group of survivors living in the aftermath of a zombie apocalypse.",
+        "poster" : "resources/images/the-walking-dead-banner.png",
+        "runtime" : 40,
+        "seasons" : 
+        [
+            [4,16],
+            [3,16],
+            [2,13],
+            [1,6]
+        ],
+        "lastseason" : 
+        {
+            "no" : 4,
+            "lastepisode": 16,
+            "episodes" :
+            [
+                {
+                    "noinseries": 36,
+                    "title": "30 Days Without an Accident",
+                    "date": "October 13, 2013"
+                },
+                {
+                    "noinseries": 37,
+                    "title": "Infected",
+                    "date": "October 20, 2013"
+                },
+                {
+                    "noinseries": 38,
+                    "title": "Isolation",
+                    "date": "October 27, 2013"
+                },
+                {
+                    "noinseries": 39,
+                    "title": "Indifference",
+                    "date": "November 3, 2013"
+                },
+                {
+                    "noinseries": 40,
+                    "title": "Internment",
+                    "date": "November 10, 2013"
+                },
+                {
+                    "noinseries": 41,
+                    "title": "Live Bait",
+                    "date": "November 17, 2013"
+                },
+                {
+                    "noinseries": 42,
+                    "title": "Dead Weight",
+                    "date": "November 24, 2013"
+                },
+                {
+                    "noinseries": 43,
+                    "title": "Too Far Gone",
+                    "date": "December 1, 2013"
+                },
+                {
+                    "noinseries": 44,
+                    "title": "After",
+                    "date": "February 9, 2014"
+                },
+                {
+                    "noinseries": 45,
+                    "title": "Inmates",
+                    "date": "February 16, 2014"
+                },
+                {
+                    "noinseries": 46,
+                    "title": "Claimed",
+                    "date": "February 23, 2014"
+                },
+                {
+                    "noinseries": 47,
+                    "title": "Still",
+                    "date": "March 2, 2014"
+                },
+                {
+                    "noinseries": 48,
+                    "title": "Alone",
+                    "date": "March 9, 2014"
+                },
+                {
+                    "noinseries": 49,
+                    "title": "The Grove",
+                    "date": "March 16, 2014"
+                },
+                {
+                    "noinseries": 50,
+                    "title": "Us",
+                    "date": "March 23, 2014"
+                },
+                {
+                    "noinseries": 51,
+                    "title": "A",
+                    "date": "March 30, 2014"
+                }
+            ]
+        },
+        "userdata" : 
+        {
+            "season" : "4",
+            "episode" : "16"
+        }
+    },
+    {
+        "name" : "Game of Thrones",
+        "title" : "game-of-thrones",
+        "network" : "HBO",
+        "online" : [],
+        "overview" : "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+        "poster" : "resources/images/game-of-thrones-banner.jpg",
+        "runtime" : 60,
+        "seasons" : 
+        [
+            [4,10],
+            [3,10],
+            [2,10],
+            [1,10]
+        ],
+        "lastseason" : 
+        {
+            "no" : 4,
+            "lastepisode": 4,
+            "episodes" :
+            [
+                {
+                    "noinseries": 31,
+                    "title": "Two Swords",
+                    "date": "April 6, 2014"
+                },
+                {
+                    "noinseries": 32,
+                    "title": "The Lion and the Rose",
+                    "date": "April 13, 2014"
+                },
+                {
+                    "noinseries": 33,
+                    "title": "Breaker of Chains",
+                    "date": "April 20, 2014"
+                },
+                {
+                    "noinseries": 34,
+                    "title": "Oathkeeper",
+                    "date": "April 27, 2014"
+                },
+                {
+                    "noinseries": 35,
+                    "title": "First of His Name",
+                    "date": "May 4, 2014"
+                },
+                {
+                    "noinseries": 36,
+                    "title": "The Laws of Gods and Men",
+                    "date": "May 11, 2014"
+                },
+                {
+                    "noinseries": 37,
+                    "title": "Mockingbird",
+                    "date": "May 18, 2014"
+                },
+                {
+                    "noinseries": 38,
+                    "title": "The Mountain and the Viper",
+                    "date": "June 1, 2014"
+                },
+                {
+                    "noinseries": 39,
+                    "title": "The Watchers of the Wall",
+                    "date": "June 8, 2014"
+                },
+                {
+                    "noinseries": 40,
+                    "title": "The Children",
+                    "date": "June 15, 2014"
+                }
+            ]
+        },
+        "userdata" : 
+        {
+            "season" : "4",
+            "episode" : "1"
+        }
+    },
+    {
+        "name":"The Big Bang Theory",
+        "title":"the-big-bang-theory",
+        "network":"CBS",
+        "online" : [],
+        "overview" : "What happens when hyperintelligent roommates Sheldon and Leonard meet Penny, a free-spirited beauty moving in next door, and realize they know next to nothing about life outside of the lab. Rounding out the crew are the smarmy Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers from an inability to speak in the presence of a woman.",
+        "poster" : "resources/images/the-big-bang-theory-banner.jpg",
+        "runtime" : 30,
+        "seasons" :
+        [
+            [7,24],
+            [6,24],
+            [5,24],
+            [4,24],
+            [3,23],
+            [2,23],
+            [1,17]
+        ],
+        "lastseason" : 
+        {
+            "no" : 7,
+            "lastepisode": 21,
+            "episodes" :
+            [
+                {
+                    "noinseries": 136,
+                    "title": "The Hofstadter Insufficiency",
+                    "date": "September 26, 2013"
+                },
+                {
+                    "noinseries": 137,
+                    "title": "The Deception Verification",
+                    "date": "September 26, 2013"
+                },
+                {
+                    "noinseries": 138,
+                    "title": "The Scavenger Vortex",
+                    "date": "October 3, 2013"
+                },
+                {
+                    "noinseries": 139,
+                    "title": "The Raiders Minimization",
+                    "date": "October 10, 2013"
+                },
+                {
+                    "noinseries": 140,
+                    "title": "The Workplace Proximity",
+                    "date": "October 17, 2013"
+                },
+                {
+                    "noinseries": 141,
+                    "title": "The Romance Resonance",
+                    "date": "October 24, 2013"
+                },
+                {
+                    "noinseries": 142,
+                    "title": "The Proton Displacement",
+                    "date": "November 7, 2013"
+                },
+                {
+                    "noinseries": 143,
+                    "title": "The Itchy Brain Simulation",
+                    "date": "November 14, 2013"
+                },
+                {
+                    "noinseries": 144,
+                    "title": "The Thanksgiving Decoupling",
+                    "date": "November 21, 2013"
+                },
+                {
+                    "noinseries": 145,
+                    "title": "The Discovery Dissipation",
+                    "date": "December 5, 2013"
+                },
+                {
+                    "noinseries": 146,
+                    "title": "The Cooper Extraction",
+                    "date": "December 12, 2013"
+                },
+                {
+                    "noinseries": 147,
+                    "title": "The Hesitation Ramification",
+                    "date": "January 2, 2014"
+                },
+                {
+                    "noinseries": 148,
+                    "title": "The Occupation Recalibration",
+                    "date": "January 9, 2014"
+                },
+                {
+                    "noinseries": 149,
+                    "title": "The Convention Conundrum",
+                    "date": "January 30, 2014"
+                },
+                {
+                    "noinseries": 150,
+                    "title": "The Locomotive Manipulation",
+                    "date": "February 6, 2014"
+                },
+                {
+                    "noinseries": 151,
+                    "title": "The Table Polarization",
+                    "date": "February 27, 2014"
+                },
+                {
+                    "noinseries": 152,
+                    "title": "The Friendship Turbulence",
+                    "date": "March 6, 2014"
+                },
+                {
+                    "noinseries": 153,
+                    "title": "The Mommy Observation",
+                    "date": "March 13, 2014"
+                },
+                {
+                    "noinseries": 154,
+                    "title": "The Indecision Amalgamation",
+                    "date": "April 3, 2014"
+                },
+                {
+                    "noinseries": 155,
+                    "title": "The Relationship Diremption",
+                    "date": "April 10, 2014"
+                },
+                {
+                    "noinseries": 156,
+                    "title": "The Anything Can Happen Recurrence",
+                    "date": "April 24, 2014"
+                },
+                {
+                    "noinseries": 157,
+                    "title": "The Proton Transmogrification",
+                    "date": "May 1, 2014"
+                },
+                {
+                    "noinseries": 158,
+                    "title": "The Gorilla Dissolution",
+                    "date": "May 8, 2014"
+                }
+            ]
+        },
+        "userdata" : 
+        {
+            "season" : "7",
+            "episode" : "14"
+        }
+    }
+]
