@@ -1,1 +1,1 @@
-Blue app.. Coming very soon!
+Blue app.. Coming soon, hem de very soon!
